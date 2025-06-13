@@ -1,4 +1,5 @@
 #include<iostream>
+//ËÀgitµ½µ×ÔõÃ´ÓÃ°¡£¡£¡£¡
 using namespace std;
 #include<ctime>
 #include"speechManager.h"
